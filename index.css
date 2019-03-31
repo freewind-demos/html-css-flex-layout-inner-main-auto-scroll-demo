@@ -1,0 +1,12 @@
+.row {
+  display: flex
+}
+
+.row > div {
+  margin: 5px;
+  background-color: #EEEEEE;
+}
+
+.grow {
+  flex: 1;
+}
