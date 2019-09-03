@@ -1,7 +1,7 @@
-Html CSS Flex Layout Demo
-=====================
+Html CSS Flex Layout Top Body Footer Auto Scroll Demo
+=====================================================
 
-用`display:flex`指定container的布局，再用`flex:???`调整内部item的属性。
+Top和Footer不动，只有Body旁边有scroll.
 
 ```
 open index.html
